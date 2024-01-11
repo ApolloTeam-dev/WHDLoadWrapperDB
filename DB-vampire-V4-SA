@@ -1,0 +1,22 @@
+;------------------------------------
+;  DATABASE file for WHDLoadWrapper
+;
+;    Vampire V4 Stand-Alone
+;------------------------------------
+; WNC     : WHDLoad NOCACHE option (Switch)
+; DM=x    : ApolloControl DISPLAYMODE Change the Display mode. 0=NTSC, 1=PAL
+; FM=x    : ApolloControl FORCEMODE Change graphic mode (0=AGA, 1=OCS)
+; SS=x    : ApolloControl SUPERSCALAR Change the SuperScalar mode. 0=Off, 1=On
+; TU=x    : ApolloControl TURTLE Change the Turtle mode. 0=Off, 1=A500, 2=A1200
+; ZO=x    : ApolloControl ZOOM Change the Zoom mode. 0=Off, 1=320x200, 2=320x240, 3=320x256, for V4(+)
+; ZV=x    : ApolloControl ZOOMVERTICAL Change the Zoom VERTICAL SHIFT value. 0 to 126, for V4(+)
+; ZH=x    : ApolloControl ZOOMHORIZONTAL Change the Zoom HORIZONTAL SHIFT value. 0 to 62, for V4(+)
+; WHD="x" : Additional WHDLoad options you need 
+;------------------------------------
+Default;
+;---------------
+; WHDLoad GAMES
+;---------------
+;---------------
+; WHDLoad DEMOS
+;---------------
