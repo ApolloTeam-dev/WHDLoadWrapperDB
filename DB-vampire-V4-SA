@@ -17,6 +17,14 @@ Default;
 ;---------------
 ; WHDLoad GAMES
 ;---------------
+SimonTheSorcerer;ZO=1 ZV=46
+SimonTheSorcererAGA;ZO=1 ZV=46
+SimonTheSorcererAGADe;ZO=1 ZV=46
+SimonTheSorcererAGAFr;ZO=1 ZV=46
+SimonTheSorcererAGAIt;ZO=1 ZV=46
+SimonTheSorcererDe;ZO=1 ZV=46
+SimonTheSorcererFr;ZO=1 ZV=46
+SimonTheSorcererIt;ZO=1 ZV=46
 ;---------------
 ; WHDLoad DEMOS
 ;---------------
