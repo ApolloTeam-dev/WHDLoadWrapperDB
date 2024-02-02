@@ -19,6 +19,11 @@ Default;TU=1 SS=0
 ;---------------
 AllTerrainRacing;ZO=3 ZV=18 ZH=26
 FinalFightEnhanced;ZO=2 ZV=24 ZH=4
+MonkeyIsland2;ZO=1 ZV=46
+MonkeyIsland2De;ZO=1 ZV=46
+MonkeyIsland2Es;ZO=1 ZV=46
+MonkeyIsland2Fr;ZO=1 ZV=46
+MonkeyIsland2It;ZO=1 ZV=46
 SecretOfMonkeyIsland;ZO=1 ZV=29 ZH=4
 SecretOfMonkeyIslandDe;ZO=1 ZV=29 ZH=4
 SecretOfMonkeyIslandEs;ZO=1 ZV=29 ZH=4
