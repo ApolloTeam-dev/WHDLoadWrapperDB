@@ -19,6 +19,11 @@ Default;TU=1 SS=0
 ;---------------
 AllTerrainRacing;ZO=3 ZV=18 ZH=26
 FinalFightEnhanced;ZO=2 ZV=24 ZH=4
+SecretOfMonkeyIsland;ZO=1 ZV=29 ZH=4
+SecretOfMonkeyIslandDe;ZO=1 ZV=29 ZH=4
+SecretOfMonkeyIslandEs;ZO=1 ZV=29 ZH=4
+SecretOfMonkeyIslandFr;ZO=1 ZV=29 ZH=4
+SecretOfMonkeyIslandIt;ZO=1 ZV=29 ZH=4
 SimonTheSorcerer;ZO=1 ZV=46
 SimonTheSorcererAGA;ZO=1 ZV=46
 SimonTheSorcererAGADe;ZO=1 ZV=46
