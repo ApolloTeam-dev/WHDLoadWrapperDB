@@ -9,6 +9,7 @@ aget URL=https://raw.githubusercontent.com/ApolloTeam-dev/WHDLoadWrapperDB/main/
 aget URL=https://raw.githubusercontent.com/ApolloTeam-dev/WHDLoadWrapperDB/main/DB-vampire-V4-500 TO=S:WHDLoad-Wrapper/ ONLYPROGRESS
 aget URL=https://raw.githubusercontent.com/ApolloTeam-dev/WHDLoadWrapperDB/main/DB-vampire-V4-600 TO=S:WHDLoad-Wrapper/ ONLYPROGRESS
 aget URL=https://raw.githubusercontent.com/ApolloTeam-dev/WHDLoadWrapperDB/main/DB-vampire-V4-SA TO=S:WHDLoad-Wrapper/ ONLYPROGRESS
+aget URL=https://raw.githubusercontent.com/ApolloTeam-dev/WHDLoadWrapperDB/main/DB-vampire-V4-UNI TO=S:WHDLoad-Wrapper/ ONLYPROGRESS
 ```
 
 Tool can be downloaded here :
