@@ -18,7 +18,13 @@ Default;SS=0
 ; WHDLoad GAMES
 ;---------------
 AllTerrainRacing;ZO=3 ZV=18 ZH=26
+BreathlessAGA060;SS=1 TU=0 WHD="CACHE"
+BreathlessAGA;SS=0 TU=0 WHD="CACHE"
+FearsAGA;SS=1 TU=0 WHD="CACHE"
+FearsAGACensored;SS=1 TU=0 WHD="CACHE"
 FinalFightEnhanced;ZO=2 ZV=24 ZH=4
+GloomAGA;SS=1 TU=0 WHD="CACHE"
+GloomDemoAGA;SS=1 TU=0 WHD="CACHE"
 MonkeyIsland2;ZO=1 ZV=46
 MonkeyIsland2De;ZO=1 ZV=46
 MonkeyIsland2Es;ZO=1 ZV=46
