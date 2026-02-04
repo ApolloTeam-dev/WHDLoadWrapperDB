@@ -1,7 +1,7 @@
 ;------------------------------------
 ;  DATABASE file for WHDLoadWrapper
 ;
-;    Vampire V4 Stand-Alone
+;    Vampire V4 A6000
 ;------------------------------------
 ; WNC     : WHDLoad NOCACHE option (Switch)
 ; DM=x    : ApolloControl DISPLAYMODE Change the Display mode. 0=NTSC, 1=PAL
