@@ -20,6 +20,7 @@ Default;SS=0
 AllTerrainRacing;ZO=3 ZV=18 ZH=26
 BreathlessAGA060;SS=1 TU=0 WHD="CACHE"
 BreathlessAGA;SS=0 TU=0 WHD="CACHE"
+BuggyBoy;ZO=1
 FearsAGA;SS=1 TU=0 WHD="CACHE"
 FearsAGACensored;SS=1 TU=0 WHD="CACHE"
 FinalFightEnhanced;ZO=2 ZV=24 ZH=4
